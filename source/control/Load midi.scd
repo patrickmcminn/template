@@ -1,0 +1,4 @@
+/*
+Load midi.scd
+prm
+*/
